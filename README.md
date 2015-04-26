@@ -1,6 +1,8 @@
 # jQuery-RWD-Tables
 jQuery Plugin  to make html tables responsive to display on small devices.  The jQuery plugin is in the `jquery.rwd-tables.js` file, also included is a jQuery script,,`rwd-tables.js`, which does the same thing incase you want to customize the script and add it to your own js scripts.
 
+See [my blog post](www.rossmchugh.com/jquery-rwd-tables/) for more details or checkout the [demo here](www.rossmchugh.com/demos/jquery-rwd-tables/).
+
 #### Set Up
 Add the script to the head section of your html doc.  It requires jQuery.
 ```
